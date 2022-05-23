@@ -79,7 +79,7 @@ gpytranslate
 fontTools
 odmantic
 tzlocal
-opencv-python-headless<4.5.5.64
+opencv-python-headless<4.5.5.65
 pendulum
 fuzzysearch
 img2pdf
